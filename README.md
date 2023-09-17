@@ -22,8 +22,6 @@ Individual Project for Machine Learning Bootcamp
 
 # Analysis
 
-<br>
-
 ## Classifying Speeches of U.S. Presidents from Other Political Parties
 
 ![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/559462ea-b705-4b3a-9a82-9f2f7146b7da)
