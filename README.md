@@ -65,10 +65,10 @@ Source : The Miller Center (University of Virginia) https://millercenter.org/the
 <br>
 
 ![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/61bdaa2d-1dc6-4155-9c31-c2193f1f4b24)
+
 In words appearing more than 2,000 times : 
 - Democratic presidential speeches uniquely featured "think" and "power"
 - Republican presidential speeches uniquely featured "law" and "work"
-<br>
 <br>
 
 ![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/a70438bd-c5fe-4885-a781-44b9eff9f05c)
