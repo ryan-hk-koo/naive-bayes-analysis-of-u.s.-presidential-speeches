@@ -84,7 +84,7 @@ Regarding words occuring more than 2,000 times :
 - The Naïve Bayes Classifier achieved an accuracy of 88%, confirming a discernible difference between Republican and Democrat presidential speeches
 - The Naïve Bayes Classifier's categorization of speeches from U.S. presidents of other political parties into Democratic and Republican categories aligned with historical facts regarding their parties, further attesting to the model's accuracy
 - Visualizing key rhetorical elements highlighted distinct words in Democratic and Republican speeches, yet many were strikingly similar. This underscores the importance of employing the n-gram technique for a more nuanced analysis
-- The trained Naïve Bayes Classifier can potentially be used to assess the political leanings of future presidential candidates by classifying their speeches as either Democratic or Republican
+- The trained Naïve Bayes Classifier can potentially be used to assess the political leanings of future U.S. presidential candidates by classifying their speeches as either Democratic or Republican
 
 
 
