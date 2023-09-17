@@ -1,7 +1,5 @@
 ![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/5cb96d6d-f8f8-4d63-9aa5-0dbe1316fd39)
 
-<br>
-
 # Purpose
 - Examine whether there is a discernible difference between Republican and Democrat presidential speeches using the Naïve Bayes Classifier
 - Determine whether speeches by U.S. presidents from other political parties aligned more closely with Democratic or Republican rhetorical patterns using the Naïve Bayes Classifier developed above
