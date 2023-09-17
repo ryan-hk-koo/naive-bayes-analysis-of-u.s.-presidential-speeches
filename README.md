@@ -2,18 +2,21 @@
 Individual Project for Machine Learning Bootcamp
 
 # Purpose
-- Examine whether there's a discernible difference between Republican and Democrat presidential speeches using the Naive Bayes Classifier
-- Determine the political leanings of speeches by presidents unaffiliated with the Republican or Democrat parties using the Naive Bayes model
-- Developed Naïve Bayes model to classify U.S. presidential speeches as Democratic or Republican
-- Analyzed speeches with model to assess political leanings of U.S. presidents from other political parties
-- Generated word clouds and bar graphs showcasing prevalent words in Democratic and Republican presidential speeches
+- Examine whether there is a discernible difference between Republican and Democrat presidential speeches using the Naïve Bayes Classifier
+- Determine whether speeches by U.S. presidents from other political parties aligned more closely with Democratic or Republican rhetorical patterns using the Naïve Bayes Classifier developed above
+- Visualize key rhetorical elements in Democratic and Republican speeches using word clouds and bar graphs
+
+# Dataset
+![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/0c701b99-ea47-4aa3-953e-398f9c1bbc48)
 
 # Method 
+
+
 
 # Analysis
 
 # Conclusion
-![Untitled](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/c76c0710-ded0-4bcf-af20-a34c98a2bb09)
+
 
 
 Purpose, method, analysis, conclusion
