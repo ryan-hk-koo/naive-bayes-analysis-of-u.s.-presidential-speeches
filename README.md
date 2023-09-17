@@ -20,15 +20,15 @@ Individual Project for Machine Learning Bootcamp
 ## Classifying Speeches of U.S. Presidents from Other Political Parties
 
 ![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/559462ea-b705-4b3a-9a82-9f2f7146b7da)
-&nbsp;
+
 ![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/361be8a8-a347-4ae1-99e6-7f80a0ada9ee)
-&nbsp;
+
 ![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/e4eab760-3c52-44c9-aca4-6302e77a2e04)
-&nbsp;
+
 ![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/0a60a55f-0b5d-47e9-9ac2-9f26e68be323)
-&nbsp;
+
 ![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/d8b0e143-f9ba-411e-b641-ab57bfe0186c)
-&nbsp;
+
 ## Word Clouds & Bar Graphs
 &nbsp;
 # Conclusion
