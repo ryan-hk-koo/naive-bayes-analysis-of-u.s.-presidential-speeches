@@ -54,9 +54,21 @@ Source : The Miller Center (University of Virginia) https://millercenter.org/the
 
 ## Word Clouds & Bar Graphs
 
+![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/65c5186c-be71-4c07-bbc8-d9d47da6e6b8)
 <br>
 <br>
-
+![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/25737a07-e34f-44a6-85cb-d246887632b6)
+<br>
+<br>
+![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/61bdaa2d-1dc6-4155-9c31-c2193f1f4b24)
+<br>
+<br>
+![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/a70438bd-c5fe-4885-a781-44b9eff9f05c)
+<br>
+<br>
+![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/03aed27f-02cc-4f82-ab6e-72a85930e02f)
+<br>
+<br>
 # Conclusion
 - The Naïve Bayes Classifier achieved an accuracy of 88%, confirming a discernible difference between Republican and Democrat presidential speeches
 - The Naïve Bayes Classifier's categorization of speeches from U.S. presidents of other political parties into Democratic and Republican categories aligned with historical facts regarding their parties, further attesting to the model's accuracy
