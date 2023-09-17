@@ -7,7 +7,7 @@ Individual Project for Machine Learning Bootcamp
 - Visualize key rhetorical elements in Democratic and Republican speeches using word clouds and bar graphs
 
 # Dataset
-![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/0c701b99-ea47-4aa3-953e-398f9c1bbc48)
+![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/43c35d8d-cbf1-431f-a882-8a06b0213f08)
 
 # Method 
 
