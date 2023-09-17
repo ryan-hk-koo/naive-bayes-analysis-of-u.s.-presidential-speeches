@@ -23,7 +23,6 @@ Individual Project for Machine Learning Bootcamp
 # Analysis
 
 <br>
-<br>
 
 ## Classifying Speeches of U.S. Presidents from Other Political Parties
 
