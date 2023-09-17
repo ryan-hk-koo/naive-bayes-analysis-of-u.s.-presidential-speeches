@@ -1,5 +1,7 @@
-# Naive Bayes Analysis of U.S. Presidential Speeches
-Individual Project for Machine Learning Bootcamp
+![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/5cb96d6d-f8f8-4d63-9aa5-0dbe1316fd39)
+
+<br>
+<br>
 
 # Purpose
 - Examine whether there is a discernible difference between Republican and Democrat presidential speeches using the Naïve Bayes Classifier
@@ -50,11 +52,9 @@ Source : The Miller Center (University of Virginia) https://millercenter.org/the
 ![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/a7f475c0-067f-4c5f-b0e8-afbb11e0744a)
 
 <br>
-<br>
 
 ## Word Clouds & Bar Graphs
 
-<br>
 <br>
 
 ![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/65c5186c-be71-4c07-bbc8-d9d47da6e6b8)
@@ -79,7 +79,6 @@ Source : The Miller Center (University of Virginia) https://millercenter.org/the
 
 ![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/03aed27f-02cc-4f82-ab6e-72a85930e02f)
 
-<br>
 <br>
 
 # Conclusion
