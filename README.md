@@ -9,6 +9,7 @@ Individual Project for Machine Learning Bootcamp
 # Dataset
 ![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/43c35d8d-cbf1-431f-a882-8a06b0213f08)
 <br>
+<br>
 Source : The Miller Center (University of Virginia) https://millercenter.org/the-presidency/presidential-speeches  
 
 <br>
