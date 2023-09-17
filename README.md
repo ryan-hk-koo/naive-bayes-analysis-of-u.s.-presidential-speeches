@@ -11,7 +11,7 @@ Individual Project for Machine Learning Bootcamp
 <br>
 <br>
 # Method
-<br>
+
 
 ![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/8e8ce796-f3ab-4e29-9d10-c9706c9f997b)
 <br>
