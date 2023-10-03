@@ -15,9 +15,18 @@ Source : The Miller Center (University of Virginia) https://millercenter.org/the
 # Method
 <br>
 
+## Classifier Model Selection
+![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/47461eb9-6333-4462-b8f9-03a9d5c9554a)
+- Tested seven different classifier models including Multinomial Naive Bayes, XGBoost, LightGBM, Logistic Regression, SVM, and two variations of  Random Forest
+- For U.S. presidential speech text data, the Multinomial Naive Bayes classifier outperformed all the other models by achieving an AUC of 0.92 and an accuracy score of 88%
+- Hence, Multinomial Naive Bayes was selected as the classifier model for this project
+
 ![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/8e8ce796-f3ab-4e29-9d10-c9706c9f997b)
 - Used Naïve Bayes classifier because of its proven efficiency in text classification and its unique ability to provide nuanced probabilistic insights
 - Additionally, its scalability ensured seamless processing of the extensive speech corpus of U.S. presidential speeches
+
+![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/9ea11e0c-a7f0-4bdb-a8d7-a495e35eff9a)
+- ROC curve of the Multinomial Naive Bayes Classifier 
 
 # Performance Analysis
 ![image](https://github.com/ryan-hk-koo/naive_bayes_analysis_of_u.s._presidential_speeches/assets/143580734/899d8a4a-ef23-400b-84ee-63faa3e15aa3)
